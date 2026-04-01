@@ -1,2 +1,3 @@
 # cve
-Documenting CEV vulnerabilities
+- CVE-2026-5237
+- CVE-2026-5238
